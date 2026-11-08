@@ -160,23 +160,6 @@ php artisan test
 
 ---
 
-## Screenshots
-
-| Profile Dashboard | Admin Dashboard |
-|-------------------|-----------------|
-| ![Profile login](/images/c-login.png) | ![Admin login](/images/a-login.png) |
-| ![Profile dashboard](/images/c-dashboard.png) | ![Admin dashboard](/images/a-dashboard.png) |
-| ![Profile urls](/images/c-urls.png) | ![Admin urls](/images/a-urls.png) |
-| ![Profile url edit](/images/c-url-edit.png) | ![Admin url edit](/images/a-url-edit.png) |
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
 ## 📄 License
 This project is open-source software licensed under the [MIT License](LICENSE).
 
